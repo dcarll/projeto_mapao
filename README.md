@@ -40,10 +40,28 @@ Um sistema completo e elegante para gestão de agendamentos de laboratórios, pr
 1. Certifique-se de ter o **Python 3.10 ou superior** instalado.
 2. No ato da instalação do Python, marque a opção **"Add Python to PATH"**.
 
+### Ambiente Virtual (Recomendado)
+Para manter seu sistema limpo e evitar conflitos entre bibliotecas, recomenda-se o uso de um ambiente virtual:
+
+1. **Criar o ambiente virtual:**
+   ```bash
+   python -m venv venv
+   ```
+
+2. **Ativar o ambiente virtual:**
+   *   **Windows:**
+       ```bash
+       .\venv\Scripts\activate
+       ```
+   *   **Linux/macOS:**
+       ```bash
+       source venv/bin/activate
+       ```
+
 ### Instalar dependências
-Abra o terminal na pasta do projeto e execute:
+Com o ambiente virtual ativo (ou globalmente), instale as bibliotecas necessárias:
 ```bash
-pip install tksheet tkcalendar fpdf2 openpyxl
+pip install -r requirements.txt
 ```
 
 ### Rodando o programa
