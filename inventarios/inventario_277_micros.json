@@ -1,0 +1,1245 @@
+{
+  "data": {
+    "2,2": "lab 03",
+    "2,6": "",
+    "2,7": "CONFERIDO POR DIEGO 31/03/206",
+    "2,8": "",
+    "3,2": "",
+    "3,3": "cpu",
+    "3,4": "monitor",
+    "3,5": "",
+    "3,6": "",
+    "3,7": "",
+    "3,8": "",
+    "4,2": "1",
+    "4,3": "DSP-BRJ3055CCN",
+    "4,4": "BRC22202VQ",
+    "4,5": "1ª FILEIRA",
+    "4,6": "",
+    "4,7": "",
+    "4,8": "",
+    "5,2": "2",
+    "5,3": "DSP-BRJ3055CF7",
+    "5,4": "BRC22202VB",
+    "5,6": "",
+    "5,7": "",
+    "5,8": "",
+    "6,2": "3",
+    "6,3": "DSP-BRJ3055C9B",
+    "6,4": "BRC24901NL",
+    "6,6": "",
+    "6,7": "",
+    "6,8": "",
+    "7,2": "4",
+    "7,3": "DSP-BRJ3055CD5",
+    "7,4": "BRC22202VK",
+    "7,6": "",
+    "7,7": "",
+    "7,8": "",
+    "8,2": "5",
+    "8,3": "DSP-BRJ305568G",
+    "8,4": "BRC24902VL",
+    "8,6": "",
+    "8,7": "MODELO 280 SEM PLACA DE VÍDEO",
+    "8,8": "",
+    "9,2": "6",
+    "9,3": "DSP-BRJ3055647",
+    "9,4": "BRC24902WP",
+    "9,6": "",
+    "9,7": "MODELO T400 COM PLACA DE VÍDEO",
+    "9,8": "",
+    "10,2": "7",
+    "10,3": "DSP-BRJ305566G",
+    "10,4": "BRC249026Y",
+    "10,6": "",
+    "10,7": "",
+    "10,8": "",
+    "11,2": "8",
+    "11,3": "DSP-BRJ3055656",
+    "11,4": "BRC2170264",
+    "11,6": "",
+    "11,7": "",
+    "11,8": "",
+    "12,2": "9",
+    "12,3": "DSP-BRJ30556WH",
+    "12,4": "BRC24904G3",
+    "12,6": "",
+    "12,7": "",
+    "12,8": "",
+    "13,2": "10",
+    "13,3": "DSP-BRJ30556DW",
+    "13,4": "BRC249011G",
+    "13,5": "2 ªFILEIRA",
+    "13,6": "",
+    "13,7": "",
+    "13,8": "",
+    "14,2": "11",
+    "14,3": "DSP-BRJ3055C78",
+    "14,4": "BRC22202TT",
+    "14,6": "",
+    "14,7": "",
+    "14,8": "",
+    "15,2": "12",
+    "15,3": "DSP-BRJ3055C8P",
+    "15,4": "BRC217026G",
+    "15,6": "",
+    "15,7": "",
+    "15,8": "",
+    "16,2": "13",
+    "16,3": "DSP-BRJ3055C7J",
+    "16,4": "BRC217026B",
+    "16,6": "",
+    "16,7": "",
+    "16,8": "",
+    "17,2": "14",
+    "17,3": "DSP-BRJ3055CGY",
+    "17,4": "BRC217026V",
+    "17,6": "",
+    "17,7": "",
+    "17,8": "",
+    "18,2": "15",
+    "18,3": "DSP-BRJ3055C96",
+    "18,4": "BRC2170268",
+    "18,6": "",
+    "18,7": "",
+    "18,8": "",
+    "19,2": "16",
+    "19,3": "DSP-BRJ3055CBK",
+    "19,4": "BRC22202M5",
+    "19,6": "",
+    "19,7": "",
+    "19,8": "",
+    "20,2": "17",
+    "20,3": "DSP-BRJ3055CD8",
+    "20,4": "BRC217026M",
+    "20,6": "",
+    "20,7": "",
+    "20,8": "",
+    "21,2": "18",
+    "21,3": "DSP-BRJ3055CFF",
+    "21,4": "BRC24901NQ",
+    "21,5": "DO PROFESSOR",
+    "21,6": "",
+    "21,7": "",
+    "21,8": "",
+    "22,2": "19",
+    "22,3": "DSP-BRJ3055C8M",
+    "22,4": "BRC22202V7",
+    "22,5": "3ª FILEIRA",
+    "22,6": "",
+    "22,7": "",
+    "22,8": "",
+    "23,2": "20",
+    "23,3": "DSP-BRJ3055C8B",
+    "23,4": "BRC22202VG",
+    "23,6": "",
+    "23,7": "",
+    "23,8": "",
+    "24,2": "21",
+    "24,3": "DSP-BRJ3055CBF",
+    "24,4": "BRC22202VN",
+    "24,6": "",
+    "24,7": "",
+    "24,8": "",
+    "25,2": "22",
+    "25,3": "DSP-BRJ3055CBW",
+    "25,4": "BRC22202VC",
+    "25,6": "",
+    "25,7": "",
+    "25,8": "",
+    "26,2": "23",
+    "26,3": "DSP-BRJ3055C82",
+    "26,4": "BRC22202V6",
+    "26,6": "",
+    "26,7": "",
+    "26,8": "",
+    "27,2": "24",
+    "27,3": "DSP-BRJ3055C9G",
+    "27,4": "BRC24901NF",
+    "27,6": "",
+    "27,7": "",
+    "27,8": "",
+    "28,2": "25",
+    "28,3": "DSP-BRJ3055CC9",
+    "28,4": "BRC22202V9",
+    "28,6": "",
+    "28,7": "",
+    "28,8": "",
+    "29,2": "26",
+    "29,3": "DSP-BRJ3055CGW",
+    "29,4": "BRC24901MX",
+    "29,6": "",
+    "29,7": "",
+    "29,8": "",
+    "30,2": "27",
+    "30,3": "DSP-BRJ3055CHQ",
+    "30,4": "BRC22202VP",
+    "30,5": "4ª FILEIRA",
+    "30,6": "",
+    "30,7": "",
+    "30,8": "",
+    "31,2": "28",
+    "31,3": "DSP-BRJ3055CHW",
+    "31,4": "BRC217026H",
+    "31,6": "",
+    "31,7": "",
+    "31,8": "",
+    "32,2": "29",
+    "32,3": "DSP-BRJ3055C7K",
+    "32,4": "BRC217026F",
+    "32,6": "",
+    "32,7": "",
+    "32,8": "",
+    "33,2": "30",
+    "33,3": "DSP-BRJ3055CG3",
+    "33,4": "BRC22202JB",
+    "33,6": "",
+    "33,7": "",
+    "33,8": "",
+    "34,2": "31",
+    "34,3": "DSP-BRJ3055CGM",
+    "34,4": "BRC217026D",
+    "34,6": "",
+    "34,7": "",
+    "34,8": "",
+    "35,2": "32",
+    "35,3": "DSP-BRJ3055CHV",
+    "35,4": "BRC24901NC",
+    "35,6": "",
+    "35,7": "",
+    "35,8": "",
+    "36,2": "33",
+    "36,3": "DSP-BRJ30558TS",
+    "36,4": "BRC24901N6",
+    "36,6": "",
+    "36,7": "",
+    "36,8": "",
+    "37,2": "34",
+    "37,3": "DSP-BRJ305567K",
+    "37,4": "BRC24906CT",
+    "37,6": "",
+    "37,7": "",
+    "37,8": "",
+    "38,2": "35",
+    "38,3": "DSP-BRJ30556GG",
+    "38,4": "BRC249011D",
+    "38,6": "",
+    "38,7": "",
+    "38,8": "",
+    "39,2": "36",
+    "39,3": "DSP-BRJ305567W",
+    "39,4": "BRC24904G0",
+    "39,6": "",
+    "39,7": "",
+    "39,8": ""
+  },
+  "styles": {
+    "2,2": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#80ffff",
+      "fg": "#000000",
+      "align": "center",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "5,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "6,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "7,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "4,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "8,7": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": false,
+      "bb": false,
+      "bl": false,
+      "br": false
+    },
+    "37,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "38,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "36,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "39,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#0080c0",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "25,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "33,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "28,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "23,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "34,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "29,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "24,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "30,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "35,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "31,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "26,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "32,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "27,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "22,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "9,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "16,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "11,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "17,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "12,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "18,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "13,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "8,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "14,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "19,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "20,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "15,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "10,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "9,7": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#009f28",
+      "fg": "#000000",
+      "align": "w",
+      "bt": false,
+      "bb": false,
+      "bl": false,
+      "br": false
+    },
+    "21,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#ff8000",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "21,4": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#ff8000",
+      "fg": "#000000",
+      "align": "w",
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "21,5": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#ff8000",
+      "fg": "#000000",
+      "align": "w",
+      "bt": false,
+      "bb": false,
+      "bl": false,
+      "br": false
+    },
+    "4,5": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "13,5": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "22,5": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "30,5": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "12,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "23,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "27,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "6,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "29,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "4,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "8,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "19,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "30,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "6,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "21,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "8,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "19,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "30,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "11,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "15,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "25,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "26,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "17,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "28,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "11,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "15,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "26,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "5,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "4,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "17,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "28,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "7,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "18,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "22,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "5,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "9,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "13,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "24,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "7,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "18,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "22,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "13,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "24,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "14,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "16,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "20,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "31,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "14,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "16,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "20,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "31,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "10,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "9,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "12,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "23,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "27,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "10,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "25,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "29,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "34,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "36,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "33,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "35,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "38,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "39,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "37,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "33,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "32,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "35,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "39,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "34,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "37,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "36,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "32,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "38,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "3,2": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "3,3": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "3,4": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "3,5": {
+      "bt": true,
+      "bb": true,
+      "bl": true,
+      "br": true
+    },
+    "2,7": {
+      "bold": true,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#ffff00",
+      "fg": "#ff0000",
+      "align": "w",
+      "bt": false,
+      "bb": false,
+      "bl": false,
+      "br": false
+    }
+  },
+  "merges": {
+    "30,5": [
+      39,
+      5
+    ],
+    "22,5": [
+      29,
+      5
+    ],
+    "13,5": [
+      20,
+      5
+    ],
+    "4,5": [
+      12,
+      5
+    ],
+    "2,2": [
+      2,
+      5
+    ]
+  },
+  "row_heights": {},
+  "col_widths": {
+    "3": 147,
+    "4": 152,
+    "7": 264,
+    "5": 117
+  }
+}

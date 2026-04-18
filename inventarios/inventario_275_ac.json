@@ -1,0 +1,35 @@
+{
+  "data": {
+    "7,3": "",
+    "5,3": ""
+  },
+  "styles": {
+    "7,2": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#ffffff",
+      "fg": "#008040",
+      "align": "w"
+    },
+    "10,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 11,
+      "bg": "#ffffff",
+      "fg": "#000000",
+      "align": "center"
+    },
+    "7,3": {
+      "bold": false,
+      "italic": false,
+      "font_size": 19,
+      "bg": "#ffffff",
+      "fg": "#000000",
+      "align": "center"
+    }
+  },
+  "merges": {},
+  "row_heights": {},
+  "col_widths": {}
+}
